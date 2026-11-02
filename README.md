@@ -17,13 +17,13 @@ Tabularium holds every solution's open work in one record that you and your AI a
 <a name="by-the-numbers"></a>
 <img src="assets/ch-by-the-numbers.svg" width="100%" alt="03 By the numbers: Every figure carries its scope">
 
-<img src="assets/stats.svg" width="100%" alt="182 rule cases pass; every deploy and push runs them; 77 units migrated to the live work model (Oct 29), verified; Claude the one agent observed so far; ChatGPT and Gemini planned">
+<img src="assets/stats.svg" width="100%" alt="182 rule cases pass; every deploy and push runs them; 77 units migrated to the live work model (Oct 29), verified; Claude the one agent observed so far">
 
 
 <a name="where-it-stands"></a>
-<img src="assets/ch-where-it-stands.svg" width="100%" alt="04 Where it stands: Honest status, enforced by the build">
+<img src="assets/ch-where-it-stands.svg" width="100%" alt="04 Current release: The version you can use today">
 
-<img src="assets/status.svg" width="100%" alt="Status: now Testing; release Phases 1–3b released · live; next Owner check of the work-model app on live, App Check enforced after a quiet day, then its own domain.">
+<img src="assets/status.svg" width="100%" alt="Released version Phases 1–3b released · live. What it gives you: One Console showing what waits for your decision and what agents have marked ready; Decision cards with value, scope, risk and rollback; a decision commits its effect, or nothing; Every change kept as a permanent, attributed event, checked before it is recorded">
 
 <img src="assets/stack.svg" width="100%" alt="Delivered as Web app; code: JavaScript 51%, Python 44%, CSS 5%">
 

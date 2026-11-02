@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Delivered as · code: Web app, JavaScript 51%, Python 44%, CSS 5%">
+<title>Delivered as · code: Web app, JavaScript 51%, Python 44%, CSS 5%</title>
+<style>@media (prefers-reduced-motion: reduce){*{animation-duration:1ms!important;animation-delay:0s!important;animation-iteration-count:1!important;animation-fill-mode:forwards!important}}</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f2125"/><stop offset="1" stop-color="#18191c"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <radialGradient id="glow" cx=".82" cy=".1" r=".9"><stop offset="0" stop-color="#818cf8" stop-opacity=".22"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx=".1" cy="1" r=".7"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".14"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+  
+</defs>
+<rect width="1200" height="120" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="120" rx="28" fill="url(#glow)"/>
+<rect width="1200" height="120" rx="28" fill="url(#glow2)"/>
+<rect x=".5" y=".5" width="1199" height="119" rx="27.5" fill="none" stroke="rgba(255,255,255,0.13)"/>
+<text x="64" y="52" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#7d8ba1" text-anchor="start" letter-spacing="2">DELIVERED AS · CODE</text><rect x="64" y="70" width="96" height="34" rx="17" fill="#17181c" stroke="rgba(255,255,255,0.13)"/><circle cx="81" cy="87" r="4" fill="#e8835a"/><text x="92" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f5f5f7" text-anchor="start" letter-spacing="0">Web app</text><rect x="170" y="70" width="156" height="34" rx="17" fill="#17181c" stroke="rgba(255,255,255,0.13)"/><circle cx="187" cy="87" r="4" fill="#e8835a"/><text x="198.2" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f5f5f7" text-anchor="start" letter-spacing="0">JavaScript 51%</text><rect x="337" y="70" width="122" height="34" rx="17" fill="#17181c" stroke="rgba(255,255,255,0.13)"/><circle cx="354" cy="87" r="4" fill="#e8835a"/><text x="364.59999999999997" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f5f5f7" text-anchor="start" letter-spacing="0">Python 44%</text><rect x="469" y="70" width="88" height="34" rx="17" fill="#17181c" stroke="rgba(255,255,255,0.13)"/><circle cx="486" cy="87" r="4" fill="#e8835a"/><text x="496.59999999999997" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f5f5f7" text-anchor="start" letter-spacing="0">CSS 5%</text>
+</svg>
